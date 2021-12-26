@@ -28,12 +28,12 @@ section, header {
 }
 
 .market {
-    background: #D8C385;
+    background: #F5F03C;
     padding: 3em 0;
 }
 
 .street {
-    background: #87460D;
+    background: #1CF526;
     padding: 3em 0;
 }
 
@@ -48,6 +48,7 @@ section, header {
 
 h1, h2, blockquote {
     color: #87460D;
+    font-family: madre-script, sans-serif;
 }
 
 p, blockquote, h1 {
@@ -59,8 +60,9 @@ h1 {
     font-size: 5.653rem;
     padding-top: .5em;
     text-transform: uppercase;
-    line-height: 1em
-}
+    line-height: 1em;
+    text-align: center;
+    }
 
 .lower {
     text-transform: none
@@ -142,7 +144,7 @@ nav {
     left: 0;
     margin: 0;
     width: 100%;
-    background: #87460D;
+    background: #F5A200;
     padding: 2em 0;
     font-size: 0.75rem;
 }
@@ -184,7 +186,7 @@ img {
 }
 
 footer {
-    background: #030307;
+    background: #87460D;
     text-align: center;
     font-size: 0.75rem;
     color: #f7f7f7;
